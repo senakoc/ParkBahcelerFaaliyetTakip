@@ -1,0 +1,10 @@
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\bin\Debug\DatabaseAccessValues.dll
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\bin\Debug\DatabaseAccessValues.pdb
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\obj\Debug\DatabaseAccessValues.csprojResolveAssemblyReference.cache
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\obj\Debug\DatabaseAccessValues.dll
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\obj\Debug\DatabaseAccessValues.pdb
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\bin\Debug\DatabaseAccessValues.dll
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\bin\Debug\DatabaseAccessValues.pdb
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\obj\Debug\DatabaseAccessValues.csprojResolveAssemblyReference.cache
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\obj\Debug\DatabaseAccessValues.dll
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessValues\obj\Debug\DatabaseAccessValues.pdb

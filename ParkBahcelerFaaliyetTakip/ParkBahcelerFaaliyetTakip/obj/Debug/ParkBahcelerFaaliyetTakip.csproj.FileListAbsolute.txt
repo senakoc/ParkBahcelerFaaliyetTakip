@@ -1,0 +1,38 @@
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\ParkBahcelerFaaliyetTakip.exe.config
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\ParkBahcelerFaaliyetTakip.exe
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\ParkBahcelerFaaliyetTakip.pdb
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.Properties.Resources.resources
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.csproj.GenerateResource.Cache
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.exe
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.pdb
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessLayer.dll
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessValues.dll
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessLayer.pdb
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessValues.pdb
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.csprojResolveAssemblyReference.cache
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormMain.resources
+C:\Users\Sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormReport.resources
+C:\Users\Sena\Documents\Visual Studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormAdd.resources
+C:\Users\Sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormEdit.resources
+C:\Users\Sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormAddTable.resources
+C:\Users\Sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormHelp.resources
+C:\Users\Sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormSettings.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\ParkBahcelerFaaliyetTakip.exe.config
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.exe
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.pdb
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\ParkBahcelerFaaliyetTakip.exe
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\ParkBahcelerFaaliyetTakip.pdb
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessLayer.dll
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessValues.dll
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessLayer.pdb
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\bin\Debug\DatabaseAccessValues.pdb
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.csprojResolveAssemblyReference.cache
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormAdd.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormAddTable.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormEdit.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormHelp.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormMain.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormReport.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.FormSettings.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.Properties.Resources.resources
+C:\ParkBahcelerFaaliyetTakip\ParkBahcelerFaaliyetTakip\obj\Debug\ParkBahcelerFaaliyetTakip.csproj.GenerateResource.Cache

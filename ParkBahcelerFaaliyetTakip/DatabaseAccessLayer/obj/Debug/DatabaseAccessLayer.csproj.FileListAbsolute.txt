@@ -1,0 +1,14 @@
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.dll
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.pdb
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessValues.dll
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessValues.pdb
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.dll
+c:\users\sena\documents\visual studio 2012\Projects\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.pdb
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.dll
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessLayer.pdb
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessValues.dll
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\bin\Debug\DatabaseAccessValues.pdb
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.csprojResolveAssemblyReference.cache
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.dll
+C:\ParkBahcelerFaaliyetTakip\DatabaseAccessLayer\obj\Debug\DatabaseAccessLayer.pdb
